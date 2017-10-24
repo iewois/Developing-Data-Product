@@ -1,0 +1,12 @@
+name: DevelopingDataProduct
+title:
+username:
+account: iewois
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 227781
+bundleId: 1042255
+url: https://iewois.shinyapps.io/DevelopingDataProduct/
+when: 1508848849.94344
+asMultiple: FALSE
+asStatic: FALSE
